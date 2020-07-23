@@ -11,3 +11,18 @@ Fala Devs, beleza? :clap:
   * Criar um projeto por dia
   * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
   * O projeto deve ser concluído até 23:59
+
+## :rocket: Desafio 1
+
+### Ícone de mídia social em camadas
+
+O gif do projeto, fica para uma próxima, não consegui gravar a tela do note.
+
+A solução que encontrei foi bem simples, porém algo novo que aprendi
+foi sobre "nth-child", não conhecia sobre está funcionalidade do css.
+Um aprendizado e tanto neste primeiro. Estou ansioso pelo restante dos desafios.
+
+<a href="https://github.com/leandro-wrf/Desafio30DiasCss/Desafio1">
+  Primeiro desafio.
+</a>
+
