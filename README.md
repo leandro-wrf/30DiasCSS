@@ -22,7 +22,24 @@ A solução que encontrei foi bem simples, porém algo novo que aprendi
 foi sobre "nth-child", não conhecia sobre está funcionalidade do css.
 Um aprendizado e tanto neste primeiro. Estou ansioso pelo restante dos desafios.
 
+Meu código:
 <a href="https://github.com/leandro-wrf/Desafio30DiasCss/Desafio1">
   Primeiro desafio.
 </a>
 
+
+### Loader Animado
+
+O gid do projeto novamente ficará para a próxima.
+
+Neste desafio aprendi sobre animations.
+
+Meu código: 
+<a href="https://github.com/leandro-wrf/Desafio30DiasCss/Desafio2">
+  Segundo desafio.
+</a>
+
+Dicas: 
+<a href="https://github.com/leandro-wrf/Desafio30DiasCss/Desafio2">
+  animations
+</a>
