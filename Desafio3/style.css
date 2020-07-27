@@ -1,0 +1,80 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	display: flex;
+}
+
+
+.container-left {
+	background: #1b262c;
+
+	height: 100%;
+	width: 50%;
+
+	overflow: hidden;
+	white-space: nowrap;
+
+	display: flex;
+	align-items: center;
+}
+
+.container-right {
+	background: #3282b8;
+
+	height: 100%;
+	width: 50%;
+
+	overflow: hidden;
+	white-space: nowrap;
+
+	display: flex;
+	align-items: center;
+}
+
+.sliding-left {
+	animation: containerLeft 10s linear infinite;
+}
+
+@keyframes containerLeft {
+	from {
+		transform: translate(20%,0);
+	}
+
+	to {
+		transform: translate(-52%, 0);
+	}
+}
+
+.sliding-right {
+	animation: containerRight 10s linear infinite;
+}
+
+@keyframes containerRight {
+	from {
+		transform: translate(0%,0);
+	}
+
+	to {
+		transform: translate(-70%, 0);
+	}
+}
+
+.sliding-left span {
+	color: #0f4c75;
+
+	font-family: 'Ubuntu';
+	font-size: 12em;
+	font-weight: bold;
+}
+
+.sliding-right span {
+	color: #1b262c;
+
+	font-family: 'Ubuntu';
+	font-size: 12em;
+	font-weight: bold;
+}
