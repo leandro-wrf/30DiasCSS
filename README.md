@@ -28,9 +28,11 @@ Meu código:
 </a>
 
 
+## Dia 2
+
 ### Loader Animado
 
-O gid do projeto novamente ficará para a próxima.
+O gif do projeto novamente ficará para a próxima.
 
 Neste desafio aprendi sobre animations.
 
@@ -42,4 +44,17 @@ Meu código:
 Dicas: 
 <a href="https://github.com/leandro-wrf/Desafio30DiasCss/Desafio2">
   animations
+</a>
+
+## Dia 3
+
+### Mudança de cor de texto quando entra em outra div
+
+(Sem gif ainda)
+
+Neste desafio aprendi mais algumas coisas sobre animations, e lógica dentro do css
+
+Meu código:
+<a href="https://github.com/leandro-wrf/Desafio30DiasCss/Desafio3">
+	Terceiro desafio.
 </a>
