@@ -29,7 +29,6 @@ Meu código:
 
 
 ## Dia 2
-
 ### Loader Animado
 
 O gif do projeto novamente ficará para a próxima.
