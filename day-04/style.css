@@ -1,0 +1,55 @@
+body {
+  background-color: #1A1A2E;
+
+  height: 100vh;
+
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  background: transparent;
+  
+  height: 60px;
+  
+  border: 6px solid;
+  color: pink;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 16px;
+  position: relative;
+}
+
+.btn::before, .btn::after {
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 6px;
+  background: #1A1A2E;
+  transform: skewY(50deg);
+  transition: .4s linear;
+}
+
+.btn::before {
+  top: -4px;
+  left: 10%;
+}
+
+.btn::after {
+  bottom: -4px;
+  right: 10%;
+}
+
+.btn:hover::before {
+  left: 80%;
+}
+
+.btn:hover::after {
+  right: 80%;
+}
+
